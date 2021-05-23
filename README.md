@@ -31,3 +31,35 @@ to show off your thought process by discussing the limitations on the equation a
 Show care with the problem. This isn't just a random scenario, this is a stand in for the interviewers product they have been working on for a year or ten! 
 Reassure them that you don't take anything lightly and give each response and step a lot of thought. 
 
+# Step 5: Break It Down
+Now that we have the groundwork, its time to start working through the problem. Take the variables above and assign values.
+
+This step involves a lot of ambiguity, something an interviewer is VERY interested in knowing if you can handle. In the PM position, there will be a lot 
+of answers you do not have or are tasked in finding out. This step can show the interviewer that not only can you be comfortable in this setting, you can thrive. 
+
+It is extremely likely that you do not know the exact number of dog owners there are in Ireland or working vehicles in Russia. That isn't the point of the excercise. 
+How do you move on? How do you break large problems down into smaller, more manageable ones? 
+
+It is helpful to have a few launching points which is why I added a file of estimations for download and also pasted it at the end of this document. It is useful if one 
+of these metrics can help you in getting started on a problemm, but I cannot give you every potential estimation you will have to perform so let's get into how to produce 
+some on your own. 
+
+You can start by asking your interviewer. A couple questions to narrow down your potential data set could be a good way to get started, but read your interviewer and limit 
+this to a couple small questions. Like I said before, the excercise isn't to know the exact numbers, it is to logically work your way throguh it. With that said, use your resources.
+
+Next, don't just throw out random numbers. You also don't want to do all of your thinking internally. Talk out loud through your thought process. Maybe you don't know the population of Ireland, but you likely have an estimate for the number of people in your home state or country and can compare the size to Ireland and come up with a logical estimate. You also are unlikely to know the percentage of people that own a dog, but amongst your family and friends, you nkow 5/20 have a dog. There is a potential data set and now we have a sample population and what percentage could have a dog. 
+
+Now this is a basic example and there are a million ways to work your way through these problems, but the point is, no yelling out random numbers and moving on in the process. Take your time, speak aloud, and explain your reasoning before moving on to the next step. 
+
+# Step 6: Review and State Your Assumptions
+Go over the final equation and numerical values and state your final reasoning for landing on these numbers. 
+
+# Step 7: Do the Math
+You've gotten this far, time to finish it all up. Use nice round numbers in your estimates to make this step as pain free as possible. 
+
+# Step 8: Sanity Check
+Don't stop there. You have your final answer, but call it quits just yet. Go back through your numbers one last time to check yourself while showing the interviewer that you are
+detail oriented. Like everything else, talk aloud. Check each number and ball park it. Does this make sense? Why? The more connections you can make to other problems or areas of
+specialization. 
+
+
