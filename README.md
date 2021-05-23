@@ -10,4 +10,24 @@ Estimation questions show the interviewer how effective you will be planning a s
                   .![image](https://user-images.githubusercontent.com/66803124/119279133-8d23ce80-bbde-11eb-8db8-db62038599ab.png)
 
 
-But don't worry. There is a formula I'll walk through so you'll have a solid foundation with any estimation question you'll be faced with in an interview. 
+But don't worry. There is a formula that gives you a solid foundation with any estimation question you'll be faced with in an interview. 
+Using Cracking the PM Interview by Gayle Laakmann McDowell and Jackie Bavaro, I'll take you step by step through it all.
+
+# Step 1: Clarify the Question
+Ask all the questions you can think of about the uses, communitity, consumer, and resources. 
+
+# Step 2: Catalogue what you know or wish you knew
+Parse out the things you know that might affect this outcome. 
+
+# Step 3: Equation
+Dont just see this step and run from this article. Every question should have some sort of equation. This shows that you are a grounded 
+person that thinks in terms of data and real world problems/solutions. It doesn't have to be complex, even a simple equation can display 
+a general aptitude for problem solving. 
+
+# Step 4: Challenge Yourself - Edge Cases and Alternate Sources
+Interviewers don't want someone who just doesn't look for, or even worse, actively ignores obstacles instead of facing them head on. Take a minute
+to show off your thought process by discussing the limitations on the equation and revising what you wrote. 
+
+Show care with the problem. This isn't just a random scenario, this is a stand in for the interviewers product they have been working on for a year or ten! 
+Reassure them that you don't take anything lightly and give each response and step a lot of thought. 
+
