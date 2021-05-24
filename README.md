@@ -96,3 +96,9 @@ Approximate   Value Data
 9000          Hours in a Year
 500,000       Minutes in a Year
 ```
+
+As part of your interview prep, it would be useful to know the Company Revenue, Company Profit, and the number of Users. This can not only show that you did your homework on the company, but also better inform your estimations since it is very possible your estimation question could involve the company. This could take the shape of Gmail from Google or Windows Users for Microsoft. 
+
+# TLDR; Clarify the question and be thinking about edge cases. Explain your thought process. Use an equation. 
+
+Best of luck out there.
