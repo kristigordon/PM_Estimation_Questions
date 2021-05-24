@@ -17,8 +17,12 @@ Using Cracking the PM Interview by Gayle Laakmann McDowell and Jackie Bavaro, I'
 # Step 1: Clarify the Question
 Ask all the questions you can think of about the uses, communitity, consumer, and resources. 
 
+This is your first step in showing the interviewer that you are throurough and can have an organized thought process. 
+
 # Step 2: Catalogue what you know or wish you knew
 Parse out the things you know that might affect this outcome. 
+
+Go through your thought process aloud. Now that 
 
 # Step 3: Equation
 Dont just see this step and run from this article. Every question should have some sort of equation. This shows that you are a grounded 
@@ -78,3 +82,17 @@ detail oriented. Like everything else, talk aloud. Check each number and ball pa
 specialization. 
 
 
+# Data to get you started
+```
+Approximate   Value Data
+300 million   US Population
+3             Average People per Household (US)
+100 million   # Households in the US
+80 years      Life Expectancy (US)
+65 - 70 years Life Expectancy (World)
+7 billion     World Population
+700 million   European Population
+4 billion     Asia Population
+9000          Hours in a Year
+500,000       Minutes in a Year
+```
