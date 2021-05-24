@@ -11,6 +11,7 @@ Estimation questions show the interviewer how effective you will be planning a s
 
 
 But don't worry. There is a formula that gives you a solid foundation with any estimation question you'll be faced with in an interview. 
+
 Using Cracking the PM Interview by Gayle Laakmann McDowell and Jackie Bavaro, I'll take you step by step through it all.
 
 # Step 1: Clarify the Question
@@ -32,7 +33,7 @@ Show care with the problem. This isn't just a random scenario, this is a stand i
 Reassure them that you don't take anything lightly and give each response and step a lot of thought. 
 
 # Step 5: Break It Down
-Now that we have the groundwork, its time to start working through the problem. Take the variables above and assign values.
+Now that we have the groundwork, its time to start working through the problem. Take the variables above and assign values. This is the most importatnt part of the process. 
 
 This step involves a lot of ambiguity, something an interviewer is VERY interested in knowing if you can handle. In the PM position, there will be a lot 
 of answers you do not have or are tasked in finding out. This step can show the interviewer that not only can you be comfortable in this setting, you can thrive. 
@@ -53,6 +54,16 @@ Now this is a basic example and there are a million ways to work your way throug
 
 # Step 6: Review and State Your Assumptions
 Go over the final equation and numerical values and state your final reasoning for landing on these numbers. 
+
+You won't feel 100% on every estimate, this is normal. Put yourself in front of other candidates by owning this fact, explaining why you aren't comfortable with this number and what you would do to increase your comfortability with this number in a different settings. 
+```
+I would start by researching the population of Ireland. I would then see if the licensing bureau requires a permit be obtained in order to own a dog. This would be a great 
+first stop to get an idea of the number of dog owners. However, there are likely dog owners that did not register their pet with the bureau. I could look up ticketing 
+records for people with unlicensed dogs as a good starting point. Of course not every dog owner without a license is going to be caught and ticketed so I would need to look
+into other methods of validation such as Vet records of unique dogs seen in the last year while also keeping in mind the potential for a dog to be seen at more than one 
+Vet as a unique dog with in a year and also that not every dog would go in to get their annual shot..... And so on. 
+```
+Show your interviewer that although you are both in a unique scenario that doesn't allow for certain problem solving alternatives, you can think through these options and would have the thought process needed in order to accureate ultilize various information avenues if on her team. 
 
 # Step 7: Do the Math
 You've gotten this far, time to finish it all up. Use nice round numbers in your estimates to make this step as pain free as possible. 
